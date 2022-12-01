@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    <style>
+        *{
+            text-align: center;
+            color: aliceblue;
+            background-color: rgb(219, 118, 24);
+        }
+        #img{
+            height: 190px;
+            width: 190px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Portfolio</h1>
+    <img src="images/mypic.jpeg" id="img" alt="dp">
+    <h3>Your Name:</h3>
+    <h4>Yashit Agrawal</h4>
+    
+    <h3>Address : </h3>
+    <h4>Jabalpur M.P</h4>
+    <hr>
+    
+    <h3>Why do you want to learn fullstack web development?</h3>
+    <h4>To became a Best Skilled Web Developer</h4>
+    
+    <h3>Hobbies :</h3>
+    <h4>Travelling</h4>
+    <h4>Playing Cricket</h4>
+       
+    <h3>Current Position?</h3>
+    <h4>Student GLOBAL INSTITUTE OF ENGINEERING</h4>
+
+    <H3>Linkedin Profile : </H3>
+    <h4><a href="https://www.linkedin.com/in/yashit-agrawal-01b504189/">Linkedin Accout link</a></h4>
+    
+    <h3>Are you open to an internship/job</h3>
+    <h4>Yes, I am open for an internship</h4>
+</body>
+</html>
